@@ -1,4 +1,6 @@
-The idea is to have a handle 
+# Concept
+
+Handlebar-mounted controller for navigation
 
 
 # Requirements
@@ -8,7 +10,7 @@ The idea is to have a handle
 * Big buttons with positive mechanical feedback, to be operated with gloves on 
 * Bluetooth connection to device
 * Hardwired to bike power, small battery for back-up
-* Waterproof
+* Weatherproof
 * Freek-proof
 * Quick-mount? 
 * Sends key strokes
