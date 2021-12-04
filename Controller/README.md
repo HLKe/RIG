@@ -26,6 +26,7 @@ The idea is to have a handle
 * screen on/off
 
 ### Multimedia mapping
+* start mediaplayer
 * play/pause
 * next/previous track
 * volume up/down
