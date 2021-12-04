@@ -16,6 +16,7 @@ Handlebar-mounted controller for navigation
 * Sends key strokes
 * Ability to toggle between mappings, e.g. a mapping for controlling Locus, a mapping for controling multimedia, mapping for controling roadboak
 * Configuration of mappings should be easy (editing a text file?) 
+* Affordable open-source platform
 
 
 ## Buttons
