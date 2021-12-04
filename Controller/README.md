@@ -1,7 +1,7 @@
 The idea is to have a handle 
 
 
-#Requirements
+# Requirements
 
 
 * Within reach of the left hand while holding the bar.
@@ -16,16 +16,16 @@ The idea is to have a handle
 * Configuration of mappings should be easy (editing a text file?) 
 
 
-##Buttons
+## Buttons
 
-###Locus Pro mapping
+### Locus Pro mapping
 * scroll the map up/down/left/right
 * zoom in/out 
 * center map on current position
 * toggle map orientation 
 * screen on/off
 
-###Multimedia mapping
+### Multimedia mapping
 * play/pause
 * next/previous track
 * volume up/down
